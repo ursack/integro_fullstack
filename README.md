@@ -15,12 +15,12 @@ Using the "test1.php" file, write a function that returns true or false if an ex
 
 ### TEST 2 - JAVASCRIPT
 Using "test2.js", write a function that separates several numbers in an array, following the text below:
-- Consider that we have a basket with 17 apples and we want to organize them in boxes, with 4 apples each.
+- Consider that we have a basket with 17 (must be variable) apples and we want to organize them in boxes, with 4 apples each.
 - After separated into boxes, I would like to group them into a pack of 2 boxes and then give my friends 1 pack each.
 - This script should work with any number of apples, and separate proportionally according to the available amount.
 
 ```javascript
-input: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16.17]
+input: [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17]
 
 output: {
   [ //friend 1
